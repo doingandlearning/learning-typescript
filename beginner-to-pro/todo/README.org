@@ -1,0 +1,10 @@
+#+TITLE: Readme
+
+* Fri Oct 16 18:52:05 2020
+
+This was an interesting project.
+
+* What did I learn?
+- I learnt about lowdb and inquirer - they'll be good for future little local projects
+- I learnt more about typing
+- I applied some of the things I'd picked up from the Programming TypeScript book
